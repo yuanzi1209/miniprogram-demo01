@@ -1,0 +1,11 @@
+<swiper class="swiper-container">
+  <swiper-item>
+    <view>A</view>
+  </swiper-item>
+  <swiper-item>
+    <view>B</view>
+  </swiper-item>  
+  <swiper-item>
+    <view>C</view>
+  </swiper-item>
+</swiper>
